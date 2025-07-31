@@ -1,0 +1,68 @@
+
+[
+  {
+    "origin": "Jakarta",
+    "destination": "Surabaya",
+    "service": "Darat Reguler",
+    "price_per_kg": 3000,
+    "etd": "3-5 Hari"
+  },
+  {
+    "origin": "Jakarta",
+    "destination": "Surabaya",
+    "service": "Darat Cepat",
+    "price_per_kg": 5000,
+    "etd": "1-2 Hari"
+  },
+  {
+    "origin": "Jakarta",
+    "destination": "Surabaya",
+    "service": "Laut Kargo",
+    "price_per_kg": 1500,
+    "etd": "5-7 Hari"
+  },
+  {
+    "origin": "Surabaya",
+    "destination": "Jakarta",
+    "service": "Darat Reguler",
+    "price_per_kg": 3000,
+    "etd": "3-5 Hari"
+  },
+  {
+    "origin": "Jakarta",
+    "destination": "Bandung",
+    "service": "Darat Reguler",
+    "price_per_kg": 2000,
+    "etd": "1-2 Hari"
+  },
+  {
+    "origin": "Bandung",
+    "destination": "Jakarta",
+    "service": "Darat Reguler",
+    "price_per_kg": 2000,
+    "etd": "1-2 Hari"
+  },
+  {
+    "origin": "Jakarta",
+    "destination": "Makassar",
+    "service": "Laut Kargo",
+    "price_per_kg": 8000,
+    "etd": "7-10 Hari"
+  },
+  {
+    "origin": "Jakarta",
+    "destination": "Makassar",
+    "service": "Udara Ekspres",
+    "price_per_kg": 25000,
+    "etd": "1-2 Hari"
+  },
+  {
+    "origin": "Surabaya",
+    "destination": "Balikpapan",
+    "service": "Laut Kargo",
+    "price_per_kg": 7500,
+    "etd": "6-9 Hari"
+  }
+]
+
+    
